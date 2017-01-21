@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+h2 {
+    font-style: italic;
+}
+body {
+	background-color: #D14545;
+}
+body {
+    margin: auto;
+    width: 50%;
+  
+    padding: 10px;
+}
